@@ -1,0 +1,86 @@
+{
+  "baseline": {
+    "annual_energy_consumption": {
+      "electricity": 125000,
+      "natural_gas": 5000,
+      "total_site_energy": 450000
+    },
+    "annual_energy_cost": {
+      "electricity": 12500,
+      "natural_gas": 3500,
+      "total": 16000
+    },
+    "peak_demand": {
+      "electricity": 85
+    },
+    "emissions": {
+      "co2": 65000
+    },
+    "end_uses": {
+      "heating": 25000,
+      "cooling": 45000,
+      "lighting": 30000,
+      "equipment": 20000,
+      "fans": 3000,
+      "pumps": 1500,
+      "heat_rejection": 500,
+      "hot_water": 5000
+    }
+  },
+  "hvac_equipment_improvements": {
+    "annual_energy_consumption": {
+      "electricity": 105000,
+      "natural_gas": 4200,
+      "total_site_energy": 380000
+    },
+    "annual_energy_cost": {
+      "electricity": 10500,
+      "natural_gas": 2940,
+      "total": 13440
+    },
+    "peak_demand": {
+      "electricity": 72
+    },
+    "emissions": {
+      "co2": 54600
+    },
+    "end_uses": {
+      "heating": 21000,
+      "cooling": 37800,
+      "lighting": 30000,
+      "equipment": 20000,
+      "fans": 2100,
+      "pumps": 1050,
+      "heat_rejection": 350,
+      "hot_water": 5000
+    }
+  },
+  "hvac_controls_improvements": {
+    "annual_energy_consumption": {
+      "electricity": 100000,
+      "natural_gas": 4000,
+      "total_site_energy": 360000
+    },
+    "annual_energy_cost": {
+      "electricity": 10000,
+      "natural_gas": 2800,
+      "total": 12800
+    },
+    "peak_demand": {
+      "electricity": 68
+    },
+    "emissions": {
+      "co2": 52000
+    },
+    "end_uses": {
+      "heating": 20000,
+      "cooling": 36000,
+      "lighting": 30000,
+      "equipment": 20000,
+      "fans": 2400,
+      "pumps": 1200,
+      "heat_rejection": 400,
+      "hot_water": 5000
+    }
+  }
+}
